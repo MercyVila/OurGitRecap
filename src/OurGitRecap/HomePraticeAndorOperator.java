@@ -10,6 +10,7 @@ public class HomePraticeAndorOperator {
 		 * whether it is a weekend or weekday. If any day from 1-5 → output
 		 * "It is a weekday" Any day from 6-7 → output "It is a weekend", Any other day
 		 * → output "Invalid day"
+		 * 
 		 */
 		
 		
